@@ -1,0 +1,142 @@
+.icon {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  .icon-sm{
+    width: 2px;
+    height: 2px;
+  }
+  
+  .icon-bell {
+    background-image: url(../icons/bell.svg);
+  }
+
+  .icon-briefcase {
+    background-image: url(../icons/briefcase.svg);
+  }
+
+  .icon-calendar {
+    background-image: url(../icons/calendar\ 1.svg);
+  }
+  
+ .icon-chevronupdown {
+    background-image: url(../icons/chevronupdown.svg);
+  }
+
+  .icon-edit {
+    background-image: url(../icons/edit\ 1.svg);
+  }
+
+  .icon-ellipse {
+    background-image: url(../icons/Ellipse\ 3.svg);
+  }
+
+  .icon-grid {
+    background-image: url(../icons/grid.svg);
+  }
+
+  .icon-hashtag {
+    background-image: url(../icons/hash\ 2.svg);
+  }
+
+  .icon-heart {
+    background-image: url(../icons/heart\ \(3\)\ 1.svg);
+  }
+
+  .icon-home {
+    background-image: url(../icons/home\ \(1\)\ 1.svg);
+  }
+
+  .icon-grid {
+    background-image: url(../icons/grid.svg);
+  }
+  
+  .icon-chevron-up {
+    background-image: url(../icons/chevron-up\ 1.svg);
+  }
+
+  .icon-message {
+    background-image: url(../icons/message-square.svg);
+  }
+
+  .icon-more {
+    background-image: url(../icons/more-horizontal.svg);
+  }
+
+  .icon-plus {
+    background-image: url(../icons/plus\ 1.svg);
+  }
+
+  .icon-search {
+    background-image: url(../icons/search\ \(1\)\ 1.svg);
+  }
+
+  .icon-send {
+    background-image: url(../icons/send\ 1.svg);
+  }
+
+  .icon-share {
+    background-image: url(../icons/share-2\ 1.svg);
+  }
+
+  .icon-like {
+    background-image: url(../icons/thumbs-up\ \(1\)\ 1.svg);
+  }
+
+  .icon-thumbsup {
+    background-image: url(../icons/thumbs-up\ 1.svg);
+  }
+
+  .icon-users {
+    background-image: url(../icons/users.svg);
+  }
+
+  .icon-video {
+    background-image: url(../icons/video\ 1.svg);
+  }
+
+  .icon-userblue {
+    background-image: url(../icons/users\ blue.svg);
+  }
+
+  .icon-plus {
+    background-image: url(../icons/plusblue.svg);
+  }
+
+  .icon-camera {
+    background-image: url(../icons/camera\ \(1\)\ 1.svg);
+  }
+
+  .icon-cameraa {
+    background-image: url(../icons/camera\ 1.svg);
+  }
+
+  .icon-user {
+    background-image: url(../icons/users\ \(6\)\ 2.svg);
+  }
+
+  .icon-plusblue {
+    background-image: url(../icons/plus\ 1.svg);
+  }
+
+  .icon-dot {
+    background-image: url(../icons/dot.svg);
+  }
+
+  .icon-edits {
+    background-image: url(../icons/edit\ 1.svg);
+  }
+
+  .icon-ellipsewhite {
+    background-image: url(../icons/more-horizontal\ \(1\)\ 1.svg);
+  }
+
+  .icon-upwhite {
+    background-image: url(../icons/chevron-up\ \(1\)\ 1.svg);
+  }
