@@ -251,9 +251,7 @@ body, html {
     width: 540px;
     height: 42px;
     border-radius: 6px;
-    background-color: transparent;
-    padding: 13px;
-    border-color: #AAAAAA;
+    background: rgba(222, 222, 222, 0.24);
   }
 
   .smgrey{
